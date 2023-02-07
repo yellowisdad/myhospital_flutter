@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:myhospital/view/home_page.dart';
+import 'package:myhospital/view/home/home_page.dart';
 import 'package:myhospital/viewModel/hospital_view_model.dart';
 import 'package:provider/provider.dart';
 
