@@ -37,8 +37,8 @@ class HospitalViewModel with ChangeNotifier {
     notifyListeners();
   }
 
-  void setSelectedMedia(Hospital? media) {
-    _hospital = media;
-    notifyListeners();
+  void setSelectedHotpital(Hospital? hospital) {
+    _hospital = hospital;
+    // notifyListeners();
   }
 }
